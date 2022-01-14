@@ -1,27 +1,30 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @zhadier or Zeeshan Haider
- A passionate web developer currently enrolled in Microverse, a Web development bootcamp
+
+ ![image](https://user-images.githubusercontent.com/90556221/149583831-90350c79-a70a-4217-a730-cf444382df89.png)
+
 
  
-## 👀 About Me
+## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="50px"> About Me
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [JavaScript, HTML, CSS, Python, C++,],
+   info: " A passionate web developer currently enrolled in Microverse, a web development bootcamp",
    descriptiom: "A complex problem-solver with an analytical and driven mindset looking for remote opportunities.",
-   challenge: {"I'm working towards becoming a Full Stack Developer"},
+   challenge: {"I'm working towards becoming a Full-stack web developer"},
 };
 ```
 
 
-## 💻 My Techs
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+## <img src="https://media.giphy.com/media/KfOA1cY1RfVhZj54nh/giphy.gif" width="40px"> My Techs
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height ="35px"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" height ="35px">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" height ="35px">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height ="35px">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height ="35px">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" height ="35px">
 
 
 ## 🥇 My Stats

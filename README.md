@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> Hi, I’m Zeeshan Haider
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hi, I’m Zeeshan Haider
 
  ![image](https://user-images.githubusercontent.com/90556221/149583831-90350c79-a70a-4217-a730-cf444382df89.png)
 
 
  
-## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="5%"> About Me
+## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="50px"> About Me
 
 ```javascript
 const aboutMe = {
@@ -19,7 +19,7 @@ const aboutMe = {
 ```
 
 
-## <img src="https://media.giphy.com/media/KfOA1cY1RfVhZj54nh/giphy.gif" width="5%"> My Techs
+## <img src="https://media.giphy.com/media/KfOA1cY1RfVhZj54nh/giphy.gif" width="50px"> My Techs
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height ="35px">
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height ="35px">
@@ -39,13 +39,14 @@ const aboutMe = {
 </div>
 
 ## 🥇 My Stats
+<div style="display:flex, justify-content: space-between">
 <a href="https://github.com/zhadier/zhadier">
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=zhadier&show_icons=true&theme=radical' />
 </a>
 <a href="https://github.com/zhadier/zhadier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhadier&hide=Shell,Ruby,&show_icons=true&theme=radical&exclude_repo=Benford-Bot-Detector,Image-Classification-using-KNN-classifier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhadier&hide=Shell,CSS&show_icons=true&theme=radical&exclude_repo=Benford-Bot-Detector,Image-Classification-using-KNN-classifier" />
 </a>
-
+</div>
 
 ##  Visitor count
 <p align="center"> 

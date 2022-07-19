@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> Hi, I’m @zhadier or Zeeshan Haider
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> Hi, I’m Zeeshan Haider
 
  ![image](https://user-images.githubusercontent.com/90556221/149583831-90350c79-a70a-4217-a730-cf444382df89.png)
 
@@ -8,24 +8,35 @@
 
 ```javascript
 const aboutMe = {
+   username: 'zhadier',
    pronouns: "he" | "him",
-   code: [JavaScript, HTML, CSS, Python, C++,],
-   info: " A passionate web developer currently enrolled in Microverse, a web development bootcamp",
-   descriptiom: "A complex problem-solver with an analytical and driven mindset looking for remote opportunities.",
-   challenge: {"I'm working towards becoming a Full-stack web developer"},
+   stacks: [React, Redux, Ruby on Rails, ES6, SASS, Tailwind, JEST, Rspec, Git],
+   challenge: {"Striving to get through 100 Leetcode interview problems in 60 days"},
+   info: 'I am a complex problem-solver with an analytical and driven mindset and yet an organized and cooperative 
+   team worker dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.',
+   hobbies: Chess && Football
 };
 ```
 
 
 ## <img src="https://media.giphy.com/media/KfOA1cY1RfVhZj54nh/giphy.gif" width="5%"> My Techs
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height ="35px"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height ="35px">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height ="35px">
+<div style="display: flex">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height ="35px">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height ="35px">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" height ="35px">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height ="35px"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height ="35px">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" height ="35px">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height ="35px">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height ="35px">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" height ="35px">
-
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height ="35px">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height ="35px">
+</div>
 
 ## 🥇 My Stats
 <a href="https://github.com/zhadier/zhadier">
